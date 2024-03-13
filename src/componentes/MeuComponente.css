@@ -1,0 +1,10 @@
+.header{
+    height: 300px;
+    border: 2px solid yellow;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    border: 2px solid red;
+    
+}
